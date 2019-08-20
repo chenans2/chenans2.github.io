@@ -14,6 +14,14 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      
+repositories:
+  - spotify-lyrics-app
+  - badday
+  - course-recommender
+  - canvas-game
+  - csc209
+  - csc207
 
 topics:
   - name: React
