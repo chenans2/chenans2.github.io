@@ -19,9 +19,9 @@ repositories:
   - spotify-lyrics-app
   - badday
   - course-recommender
+  - minesweeper
   - canvas-game
   - csc209
-  - csc207
 
 topics:
   - name: React
@@ -32,6 +32,6 @@ topics:
     web_url: https://github.com/topics/django
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/django/django.png
 
-  - name: MongoDB
-    web_url: https://github.com/topics/mongodb
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mongodb/mongodb.png
+  - name: GraphQL
+    web_url: https://github.com/topics/graphql
+    image_url: https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png
